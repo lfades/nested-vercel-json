@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "pages/api/test.js": {
+      "memory": 3008
+    }
+  },
+  "redirects": [
+    {
+      "source": "/view-source",
+      "destination": "https://github.com/vercel/vercel"
+    }
+  ]
+}
